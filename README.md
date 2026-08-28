@@ -257,7 +257,7 @@ Curated list of resources to start and grow your startup.
 - [Bolt.new](https://bolt.new/) — AI-powered MVP builder in minutes, by StackBlitz
 - [v0 by Vercel](https://v0.dev/) — Generate frontend UI components with AI
 - [Midjourney](https://www.midjourney.com/) — AI image generation for design and marketing assets
-- [Gamma](https://gamma.app/) — Create presentations and pitch decks via AI prompts
+- [Gamma](https://gamma.app/) — Create pitch decks and presentations via AI prompts
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
 - [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
@@ -426,6 +426,7 @@ Curated list of resources to start and grow your startup.
 - [Compass](https://www.compass.co/)
 - [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
 - [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
+- [PixelWatch](https://pixelwatch.app) — Visual competitor website monitoring: daily full-page screenshots, side-by-side diffs, and change alerts.
 
 ## Research
 
