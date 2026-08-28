@@ -56,6 +56,7 @@ Curated list of resources to start and grow your startup.
 
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
 - [Sam Altman's blog](http://blog.samaltman.com/)
+- [SaaSOffers](https://saasoffers.tech) - 478+ verified startup deals and SaaS credits.
 
 # Learning Resources
 
@@ -207,6 +208,7 @@ Curated list of resources to start and grow your startup.
 
 # Places to post your startup
 
+- [AiToolsObserver](https://aitoolsobserver.com/) — AI discovery platform that accepts free AI tool submissions and publishes comparisons, trends and practical use cases
 - [Curated List](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [BetaPage](https://betapage.co/)
 - [Product Hunt](http://www.producthunt.com/)
@@ -217,6 +219,7 @@ Curated list of resources to start and grow your startup.
 - [How to raise money — Paul Graham](http://www.paulgraham.com/fr.html)
 - [Investopedia — Series A, B, C Funding explained](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
 - [A curated library of VC pitch decks](https://www.chagency.co.uk/getstartupfunding/)
+- [DDScore Mid-Cycle Narrative Drift Check](https://mheilimo.github.io/mid-cycle-narrative-drift-check/) — Free browser-only worksheet for founders between rounds to compare business changes with next-round evidence needs across 12 dimensions; no account or upload required
 - [Venture Deals by Brad Feld](https://www.amazon.com.br/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754)
 - [Bridge Rounds vs Series Rounds](https://tech.co/news/bridge-rounds-vs-series-rounds-2013-09)
 - [Startup Financing Calculator](https://calculator.ledgy.com)
@@ -248,6 +251,7 @@ Curated list of resources to start and grow your startup.
 - [Claude](https://claude.ai/) — Anthropic's AI assistant, strong in analysis, coding and long documents
 - [Gemini](https://gemini.google.com/) — Google's AI with real-time web access
 - [Perplexity](https://www.perplexity.ai/) — AI-powered search, great alternative to Google for research
+- [BizChecker AI](https://bizchecker.ai) — Purpose-built AI for founders: runs startup ideas through 6 adversarial models, returns GO/NO-GO verdict with kill-signal analysis. $39 one-time.
 - [Cursor](https://www.cursor.com/) — AI-powered code editor for technical founders building MVPs fast
 - [Lovable](https://lovable.dev/) — Generate full web apps from a chat prompt, no code required
 - [Bolt.new](https://bolt.new/) — AI-powered MVP builder in minutes, by StackBlitz
@@ -256,6 +260,7 @@ Curated list of resources to start and grow your startup.
 - [Gamma](https://gamma.app/) — Create presentations and pitch decks via AI prompts
 - [ElevenLabs](https://elevenlabs.io/) — AI voice synthesis for demos, videos and content
 - [Notion AI](https://www.notion.so/product/ai) — AI integrated into Notion for docs and research
+- [LLMGraph](https://llmgraph.ai/) — No-code visual builder for LLM workflows: RAG chatbots and AI agents with one-click deploy to a REST API and embeddable chat widget
 
 ## No-Code / Low-Code
 
@@ -277,12 +282,17 @@ Curated list of resources to start and grow your startup.
 - [Buffer](https://buffer.com) — Social media analytics and scheduling
 - [BuzzSumo](https://buzzsumo.com) — Find most shared content and key influencers
 - [SocialBlade](https://socialblade.com/) — Social media statistics
+- [GetAppNiche](https://getappniche.com/) — App Store intelligence for indie iOS founders researching niches, competitors, revenue estimates, keywords, ads, and reviews.
+- [The Free X Growth Course](https://slappost.app/learn/) — Free, no-login course: 5 lessons on growing on X (Twitter) covering hooks, threads, the open-source algorithm, replies, and your profile funnel
+- [WebCoreLab](https://webcorelab.com) — Free AI SEO audit (272 checks) for early-stage startups. GEO/AEO tracking, CRO, WordPress builds.
 - [IFTTT](https://ifttt.com/) — Custom triggers to automate social media workflows
 - [HubSpot for Startups](https://www.hubspot.com/startups)
 - [Sumo](https://page.sumo.com/gosumo) — Email capture and traffic growth tools
 - [Viral Loops](https://viral-loops.com/) — Referral programs made easy
 - [Customer.io](https://customer.io/) — Behavioral email and messaging automation
+- [Klinky](https://klinky.io) — A/B testing link shortener: split one link between two destinations for controlled rollouts. Free tier available
 - [150 marketing tools](https://blog.rebrandly.com/150-best-marketing-tools/)
+- [Pick an Agency](https://www.pickanagency.com) - Independent directory of 47,000+ ad and marketing agencies, ranked by verified reviews. No paid placements.
 
 ## Email Marketing
 
@@ -318,6 +328,7 @@ Curated list of resources to start and grow your startup.
 - [Freshdesk](https://freshdesk.com/) — Affordable Zendesk alternative
 - [Plain](https://www.plain.com/) — Modern B2B SaaS support via Slack and email
 - [Crisp](https://crisp.chat/) — Free live chat for early-stage startups
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses
 
 ## Task & Project Management
 
@@ -329,6 +340,7 @@ Curated list of resources to start and grow your startup.
 - [Monday](https://monday.com)
 - [Taskade](https://taskade.com)
 - [Linear](https://linear.app/) — Fast issue tracking and roadmap for product teams
+- [REEZN](https://reezn.io/) - Spec-driven development workflow for turning feature ideas into reviewed blueprints, free tier for small teams
 
 ## Communication & Collaboration
 
@@ -362,6 +374,7 @@ Curated list of resources to start and grow your startup.
 ## Tech
 
 - [The Ultimate SaaS Tech Stack Database](https://docs.google.com/spreadsheets/d/1cyP43c079mbshNfRlag9TQIetX1jAulc3xv-EEONgrw/edit#gid=2035484728)
+- [Kostra](https://kostra.io) – Next.js SaaS boilerplate with authentication, Stripe billing, and credit-based usage billing, so technical founders skip months of setup
 
 ## Finance & Accounting
 
@@ -373,6 +386,9 @@ Curated list of resources to start and grow your startup.
 - [Runway](https://runway.com/) — Financial modeling and forecasting for non-financial founders
 - [Causal](https://www.causal.app/) — Visual financial planning and scenario modeling
 - [Fathom](https://www.fathomhq.com/) — Financial reporting and KPI dashboards on top of QuickBooks/Xero
+- [Calcrux](https://calcrux.com) — Free startup finance calculators: burn rate & runway, unit economics (LTV/CAC), SaaS metrics (MRR, ARR, NRR), and equity dilution — no sign-up
+- [Acalcia](https://acalcia.com) — Free, no-signup suite of money & tax calculators for freelancers, online sellers, and creators (self-employment & quarterly tax, marketplace/payment fees, rates, pricing & margins, invoicing)
+- [SmartBizCalc](https://smartbizcalc.com) — 347 free calculators for founders: startup costs, break-even analysis, tax estimates (SE tax, S-corp savings, payroll), and contractor pricing
 
 ## Payments
 
@@ -408,6 +424,8 @@ Curated list of resources to start and grow your startup.
 - [Aytm](https://aytm.com/)
 - [Similar Web](https://www.similarweb.com/pt)
 - [Compass](https://www.compass.co/)
+- [WP Goldmine](https://wpgoldmine.io) — Market research for WordPress: finds abandoned or unsupported plugins that still have large active-install bases, surfacing product gaps you could rebuild and capture.
+- [EnrichAnything](https://www.enrichanything.com/) - Turn public hiring, ecommerce, and GTM signals into usable company lists.
 
 ## Research
 
@@ -424,6 +442,7 @@ Curated list of resources to start and grow your startup.
 - [Google Search Console](https://search.google.com/search-console/) — Free SEO monitoring from Google
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) — Technical SEO site auditor
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) — Accessible keyword research tool
+- [AnswerLens](https://app.sfdj.net/) — Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, schema, and llms.txt gaps
 
 ## Naming
 
