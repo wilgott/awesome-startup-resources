@@ -1,1 +1,0 @@
-- [PixelWatch](https://pixelwatch.app) — Visual competitor website monitoring: daily full-page screenshots, side-by-side diffs, and change alerts.
